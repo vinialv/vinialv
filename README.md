@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Vinicius 👋
 
-<!--
-**vinialv/vinialv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:man_technologist: I'm Front-End Developer
 
-Here are some ideas to get you started:
+🚀 Student at Rocketseat in the Bootcamp LaunchBase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm currently programming in HTLM, CSS, JAVASCRIPT, JAVA and SQL.
+
+🎯 My learning goals are: NodeJS, ReactJS, React Native & Typescript
+
+## About me:
+
+🖥 I always loved to use the computer and I started my studies on computer programming because I have always liked to be able to resolve day to day problems, using technology in order to facilitate other people's lives and work.
+
+ℹ More information:
+- I'm from São Paulo - SP
+- I have 22 years old
