@@ -16,4 +16,4 @@
 
 ℹ More information
 - I'm from São Paulo - SP
-- I have 22 years old
+- I'm 22 years old
