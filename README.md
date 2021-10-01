@@ -15,5 +15,5 @@
 
 
 ℹ More information
-- I'm from São Paulo - SP
+- I'm from São José do Rio Pardo - SP
 - I'm 23 years old
