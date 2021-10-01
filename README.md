@@ -1,12 +1,12 @@
 ## Hi, I'm Vinicius 👋
 
-:man_technologist: I'm Front-End Developer
+:man_technologist: I'm Developer
 
 🚀 Rocketseat student by Bootcamp LaunchBase
 
-📚 I'm currently programming in HTLM, CSS, JavaScript, Java and SQL.
+📚 I'm currently programming in NodeJS, Java and SQL.
 
-🎯 My learning goals are: NodeJS, ReactJS, React Native & Typescript
+🎯 My learning goals are: Spring, ORM and OAuth.
 
 
 ## About me
