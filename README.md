@@ -2,7 +2,7 @@
 
 :man_technologist: I'm Developer
 
-🚀 Rocketseat student by Bootcamp LaunchBase
+🚀 Rocketseat student by Bootcamp Discover and Ignite.
 
 📚 I'm currently programming in NodeJS, Java and SQL.
 
