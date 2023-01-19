@@ -4,9 +4,9 @@
 
 🚀 Rocketseat student by Bootcamp Discover and Ignite.
 
-📚 I'm currently programming in NodeJS, Java and SQL.
+📚 I'm currently programming in ReactJS, ReactNative and NodeJS.
 
-🎯 My learning goals are: Spring, ORM and OAuth.
+🎯 My learning goals are: ORM and OAuth.
 
 
 ## About me
