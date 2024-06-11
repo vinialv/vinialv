@@ -1,6 +1,6 @@
 ## Hi, I'm Vinicius 👋
 
-:man_technologist: I'm Developer
+:man_technologist: I'm FullStack Developer
 
 🚀 Rocketseat student by Bootcamp Discover and Ignite.
 
@@ -15,5 +15,5 @@
 
 
 ℹ More information
-- I'm from São José do Rio Pardo - SP
-- I'm 24 years old
+- I'm from São Paulo - SP
+- I'm 26 years old
